@@ -56,7 +56,7 @@ To evaluate the synthesized text:
 2. QaTa-COV19 Text Annotations(from thrid party)  
     Check out the related content in LViT: [https://github.com/HUANGLIZI/LViT](https://github.com/HUANGLIZI/LViT)
 
-3. The pre-processed and cleaned version of QaTa dataset is available at ```./data```
+3. The pre-processed and cleaned version of QaTa dataset is available at ```./data/QaTa```
 
 
 ## Evaluations
