@@ -1,0 +1,34 @@
+TRAIN:
+  train_batch_size: 32
+  lr: 0.0003
+
+  valid_batch_size: 8
+
+  image_size: [224,224]
+
+  min_epochs: 50
+  max_epochs: 100
+  patience: 30
+
+  accelerator: gpu
+  device: 1
+  num_workers: 8
+
+  num_labels: 6
+
+  model_save_path: ./save_model
+  model_save_filename: sgseg
+  checkpoint_path: None
+
+MODEL:
+  bert_type: microsoft/BiomedVLP-CXR-BERT-specialized
+  vision_type: facebook/convnext-tiny-224
+  project_dim: 768
+
+DATA:
+  train_ann_path: ./data/QaTa/prompts/annotation.json
+  train_root_path: ./data/QaTa/images/train
+  valid_ann_path: ./data/QaTa/prompts/annotation.json
+  valid_root_path: ./data/QaTa/images/valid
+  test_ann_path: ./data/QaTa/prompts/annotation.json
+  test_root_path: ./data/QaTa/images/test
