@@ -1,6 +1,8 @@
 # SGSeg: Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance
 ### MICCAI 2024
 
+[![Website](https://img.shields.io/badge/SGSeg-%F0%9F%8C%90Website-purple?style=flat)](https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html) [![arXiv](https://img.shields.io/badge/arXiv-2409.04758-b31b1b.svg)](https://arxiv.org/abs/2409.04758) 
+
 Shuchang Ye, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
 
 
