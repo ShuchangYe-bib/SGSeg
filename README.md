@@ -121,11 +121,19 @@ We appreciate the [LViT](https://github.com/HUANGLIZI/LViT) for its contribution
 ## Citation
 
 ```
-@inproceedings{ye2024sgseg,
-    author    = {Ye, Shuchang and Meng, Mingyuan and Li, Mingjian and Feng, Dagan and Kim, Jinman},
-    title     = {Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
-    year      = {2024},
+@InProceedings{10.1007/978-3-031-72111-3_23,
+author="Ye, Shuchang
+and Meng, Mingyuan
+and Li, Mingjian
+and Feng, Dagan
+and Kim, Jinman",
+title="Enabling Text-Free Inference in Language-Guided Segmentation of Chest X-Rays via Self-guidance",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="242--252",
+isbn="978-3-031-72111-3"
 }
 ```
 
