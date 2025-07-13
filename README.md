@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/SGSeg-%F0%9F%8C%90Website-purple?style=flat)](https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html) [![arXiv](https://img.shields.io/badge/arXiv-2409.04758-b31b1b.svg)](https://arxiv.org/abs/2409.04758) 
 
-Shuchang Ye, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
+[Shuchang Ye](https://shuchangye-bib.github.io), [Mingyuan Meng](https://mungomeng.github.io), [Mingjian Li](https://tzcskys.netlify.app), [Dagan Feng](https://scholar.google.com/citations?user=89py58oAAAAJ), [Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html)
 
 
 ![Segmentation Comparisons](./misc/visualization_seg.png)
