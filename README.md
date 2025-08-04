@@ -62,7 +62,7 @@ To evaluate the synthesized text:
 
 
 ## Evaluations
-To evaluate the performace of our model:
+To evaluate the performance of our model:
 1. Specify the path of the pretrained model in ```checkpoint_path``` parameter in ```config/training.yaml```
 
 2. Run evaluation ```python evaluate.py```
@@ -117,6 +117,8 @@ Download the pre-trained model of CXR-BERT and ConvNeXt
 
 We appreciate the [LViT](https://github.com/HUANGLIZI/LViT) for its contributions in integrating language into medical image segmentation and providing annotated descriptive reports. We also thank the [LanGuideMedSeg](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023) for the development of a simple yet efficient method for effectively fusing text and images in UNet.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
